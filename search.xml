@@ -62,7 +62,9 @@
         <category>C语言库文件</category>
       </categories>
       <tags>
-        <tag>SDL, 图像处理, 游戏开发</tag>
+        <tag>SDL</tag>
+        <tag>图像处理</tag>
+        <tag>游戏开发</tag>
       </tags>
   </entry>
 </search>
