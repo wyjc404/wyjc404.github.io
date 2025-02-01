@@ -57,9 +57,10 @@
 <li>绘制矩形 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="built_in">SDL_RenderFillRect</span>(renderer, &amp;rect);</span><br></pre></td></tr></table></figure></li>
 <li>显示渲染内容 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="built_in">SDL_RenderPresent</span>(renderer);</span><br></pre></td></tr></table></figure></li>
 </ol>
+<h2 id="下载附件"><a href="#下载附件" class="headerlink" title="下载附件"></a>下载附件</h2><p><a href="./download/hello.c" download>下载示例代码</a></p>
 ]]></content>
       <categories>
-        <category>C语言库文件</category>
+        <category>图形学习</category>
       </categories>
       <tags>
         <tag>SDL</tag>
