@@ -126,14 +126,14 @@
     <hr>
     <h2>作者: 张三</h2>
     <hr>
-    <img src="../images/云边有个小卖部.jpg" height="500" width="500" alt="云边有个小卖部电影海报" title="云边有个小卖部电影海报">
+    <img src="/images/云边有个小卖部.jpg" height="500" width="500" alt="云边有个小卖部电影海报" title="云边有个小卖部电影海报">
     <hr>
     <B>
         《云边有个小卖部》拟结尾
     </B>
 
     <br>
-    <audio src="../mixs/ _ 海洋Bo - 向云端.flac" controls></audio>
+        <audio src="/mixs/小霞_海洋Bo_向云端.flac" controls></audio>
     <ul>
         <li>
             山风卷着咸涩的雨丝扑在小卖部的木门上，刘十三抱着膝盖坐在门槛上。外婆的摇椅还在老位置吱呀作响，竹篾编织的椅背还留着被烟头烫出的焦痕。
@@ -164,7 +164,7 @@
         </li>
         <br>
     </ul>
-    <video src="../mixs/share_ba079ece51555ea3195eb139d63c63de.mp4" height="500" width="500" controls></video>
+    <video src="/mixs/share_ba079ece51555ea3195eb139d63c63de.mp4" height="500" width="500" controls></video>
 </body>
 </html>]]></content>
       <categories>
